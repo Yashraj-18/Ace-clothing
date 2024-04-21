@@ -9,6 +9,7 @@ Ace Clothing is a project built using React js. Users can explore products, brow
 - Home page
 - Explore page
 - Checkout Page.
+- Ginnie (our friendly ai assistant to help you to pick better clothes.😊😊)
 
 ![home page](images/home.png)
 ![explore page](images/explore.png)
