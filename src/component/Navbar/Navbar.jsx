@@ -61,7 +61,7 @@ function Navigations({ toggleShowCart }) {
           <NavLink to="/explore/all">Explore All</NavLink>
         </li>
         <li className="nav-link">
-          <NavLink to="/explore/all">Ginnie</NavLink>
+          <NavLink to="https://cheerful-crisp-8447ba.netlify.app/">Ginnie</NavLink>
         </li>
       </ul>
       <div className="nav-secondary_btn" onClick={handleOpenNavigation}>
